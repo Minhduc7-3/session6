@@ -6,7 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _31231025891_NGUYEN_THI_NGOC_BICH
+namespace __31221024904_le_minh_duc_
 {
     internal class Session06
     {
